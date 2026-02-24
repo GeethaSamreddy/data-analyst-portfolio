@@ -18,10 +18,15 @@ real datasets and extract business insights.
 - Which category drives the most sales?
 - Which region is most profitable?
 - Which sub-categories are losing money?
+- How have sales trended over time?
+- What is the relationship between discount and profit?
+- Who are the top 10 most profitable customers?
 
-**Key Finding:** Tables, Bookcases and Supplies are loss-making 
-sub-categories despite driving sales volume — a pricing review 
-is recommended.
+**Key Findings:**
+- Tables, Bookcases and Supplies are loss-making sub-categories
+- West region is the most profitable, Central is the least
+- Sales consistently spike in Q4 — strong seasonal trend
+- Discounts above 40% consistently result in negative profit
 
 📓 [View Notebook](./SuperStore.ipynb)
 
