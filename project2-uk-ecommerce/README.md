@@ -1,36 +1,138 @@
-# Project 2 — UK E-Commerce Sales Analysis
+### 2. UK E-Commerce Sales Analysis
+**Tools:** Python, Pandas, SQL (SQLite), Power BI  
+**Dataset:** Real UK online retail data (541,909 records)  
 
-## Overview
-Analysis of a real UK online retail dataset containing 541,909 transactions 
-from a London-based e-commerce store between 2010-2011.
+**Business Questions Answered:**
+- Which countries generate the most revenue?
+- What are the best selling products?
+- Which month has the highest sales?
+- Who are the top 10 customers by revenue?
+- Which country has the highest average order value?
 
-## Tools Used
-- Python (Pandas, Matplotlib, Seaborn)
-- SQL (SQLite)
-- Power BI
+**Key Findings:**
+- UK generates the highest total revenue
+- November is peak sales month — Christmas shopping season
+- Top customer generated £280,206 in revenue
+- Netherlands has highest average order value despite fewer customers
+- Discounts above 40% consistently result in losses
 
-## Business Questions Answered
-1. Which countries generate the most revenue?
-2. What are the best selling products?
-3. Which month has the highest sales?
-4. Who are the top 10 customers by revenue?
-5. Which country has the highest average order value?
+📓 [View Notebook](./### 2. UK E-Commerce Sales Analysis
+**Tools:** Python, Pandas, SQL (SQLite), Power BI  
+**Dataset:** Real UK online retail data (541,909 records)  
 
-## Key Findings
-- 🇬🇧 UK generates the highest total revenue
-- 🎄 November is peak sales month — Christmas shopping season
-- 👑 Top customer generated £280,206 in revenue
-- 🌍 Netherlands has highest average order value
-- 📦 Paper Craft Little Birdie is the best selling product
+**Business Questions Answered:**
+- Which countries generate the most revenue?
+- What are the best selling products?
+- Which month has the highest sales?
+- Who are the top 10 customers by revenue?
+- Which country has the highest average order value?
 
-## Files
-- `uk_ecommerce_analysis.ipynb` — Python & SQL analysis notebook
-- `ukecommerce.pbix` — Power BI dashboard
-- CSV files — cleaned data outputs from SQL queries
+**Key Findings:**
+- UK generates the highest total revenue
+- November is peak sales month — Christmas shopping season
+- Top customer generated £280,206 in revenue
+- Netherlands has highest average order value despite fewer customers
+- Discounts above 40% consistently result in losses
 
-## Dataset
-Source: UCI Machine Learning Repository — Online Retail Dataset
-Real transactions from a UK based online retail store
+📓 [View Notebook](./uk_ecommerce_analysis.ipynb)  
+📊 [View Dashboard](./### 2. UK E-Commerce Sales Analysis
+**Tools:** Python, Pandas, SQL (SQLite), Power BI  
+**Dataset:** Real UK online retail data (541,909 records)  
+
+**Business Questions Answered:**
+- Which countries generate the most revenue?
+- What are the best selling products?
+- Which month has the highest sales?
+- Who are the top 10 customers by revenue?
+- Which country has the highest average order value?
+
+**Key Findings:**
+- UK generates the highest total revenue
+- November is peak sales month — Christmas shopping season
+- Top customer generated £280,206 in revenue
+- Netherlands has highest average order value despite fewer customers
+- Discounts above 40% consistently result in losses
+
+📓 [View Notebook](./uk_ecommerce_analysis.ipynb)  
+📊 [View Dashboard](./### 2. UK E-Commerce Sales Analysis
+**Tools:** Python, Pandas, SQL (SQLite), Power BI  
+**Dataset:** Real UK online retail data (541,909 records)  
+
+**Business Questions Answered:**
+- Which countries generate the most revenue?
+- What are the best selling products?
+- Which month has the highest sales?
+- Who are the top 10 customers by revenue?
+- Which country has the highest average order value?
+
+**Key Findings:**
+- UK generates the highest total revenue
+- November is peak sales month — Christmas shopping season
+- Top customer generated £280,206 in revenue
+- Netherlands has highest average order value despite fewer customers
+- Discounts above 40% consistently result in losses
+
+📓 [View Notebook](./uk_ecommerce_analysis.ipynb)  
+📊 [View Dashboard](./ukecommerce.pbix)
+
+---
+
+## Skills
+- **Languages:** Python, SQL
+- **Libraries:** Pandas, Matplotlib, Seaborn
+- **BI Tools:** Power BI, Tableau
+- **Cloud:** AWS, Azure, Snowflake
+- **Database:** SQLite
+
+---
+
+## Contact
+📧 geethareddy6668@gmail.com  
+💼 linkedin.com/in/geetha-reddysamreddy  
+🔗 github.com/GeethaSamreddy
+---
+
+## Skills
+- **Languages:** Python, SQL
+- **Libraries:** Pandas, Matplotlib, Seaborn
+- **BI Tools:** Power BI, Tableau
+- **Cloud:** AWS, Azure, Snowflake
+- **Database:** SQLite
+
+---
+
+## Contact
+📧 geethareddy6668@gmail.com  
+💼 linkedin.com/in/geetha-reddysamreddy  
+🔗 github.com/GeethaSamreddy)
+
+---
+
+## Skills
+- **Languages:** Python, SQL
+- **Libraries:** Pandas, Matplotlib, Seaborn
+- **BI Tools:** Power BI, Tableau
+- **Cloud:** AWS, Azure, Snowflake
+- **Database:** SQLite
+
+---
+
+## Contact
+📧 geethareddy6668@gmail.com  
+💼 linkedin.com/in/geetha-reddysamreddy  
+🔗 github.com/GeethaSamreddy)  
+📊 [View Dashboard](./UK_Ecommerce_Dashboard.pdf)
+
+---
+
+## Skills
+- **Languages:** Python, SQL
+- **Libraries:** Pandas, Matplotlib, Seaborn
+- **BI Tools:** Power BI, Tableau
+- **Cloud:** AWS, Azure, Snowflake
+- **Database:** SQLite
+
+---
 
 ## Contact
 📧 geethareddy6668@gmail.com  
